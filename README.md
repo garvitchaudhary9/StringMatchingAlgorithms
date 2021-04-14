@@ -1,4 +1,4 @@
-# StringMatchingAlgorithms And Plag Checker
+## StringMatchingAlgorithms And Plag Checker
 This includes implementation of different kinds of string matching algorithms like:
 
 
@@ -22,7 +22,7 @@ I have also implemented the code of the algorithms and experimented it in differ
 # Manual
 
 ```
-Download the Xcode code project
+-Download the Xcode code project
 
 
 -Run each Target for Plag Check
