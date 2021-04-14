@@ -116,7 +116,5 @@ int main()
     cou=0;
     }
    file.close();
-
-    
     return 0;
 }

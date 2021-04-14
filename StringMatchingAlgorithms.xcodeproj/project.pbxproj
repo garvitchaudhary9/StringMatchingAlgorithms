@@ -86,6 +86,7 @@
 		FF5B32FC261BCFDD0099EB78 /* Naive */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Naive; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF5B32FE261BCFDD0099EB78 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		FF7AC7E92626843D00B77536 /* Text.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = Text.txt; sourceTree = "<group>"; };
+		FFB420FC2626C806005CDABD /* Output.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = Output.txt; sourceTree = "<group>"; };
 		FFC61EFC262692E500B7A569 /* Text2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = Text2.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -138,6 +139,7 @@
 		FF5B32AA261BCD660099EB78 = {
 			isa = PBXGroup;
 			children = (
+				FFB420FC2626C806005CDABD /* Output.txt */,
 				FFC61EFC262692E500B7A569 /* Text2.txt */,
 				FF7AC7E92626843D00B77536 /* Text.txt */,
 				FF5B32B5261BCD660099EB78 /* StringMatchingAlgorithms */,
