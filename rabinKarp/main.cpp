@@ -85,7 +85,7 @@ int main()
     //char *pat ="learning";
     char pat[30];
 
-    file.open("pat.txt");
+    file.open("Text2.txt");
     while(file.getline(pat,29))
     {
     clock_t begin = clock();
