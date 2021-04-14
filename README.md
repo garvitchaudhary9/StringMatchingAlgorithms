@@ -21,9 +21,9 @@ I have also done exhaustive study on various kinds of string matching algorithms
 I have also implemented the code of the algorithms and experimented it in different conditions.
 # Manual
 
-'''
+```
 Download the Xcode code project
 
 
 -Run each Target for Plag Check
-'''
+```
